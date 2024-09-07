@@ -1,0 +1,21 @@
+[
+    {
+        "cantidad": 2
+    },
+    {
+        "nombre": "mauri",
+        "planeta": "tierra"
+    },
+    {
+        "nombre": "patito",
+        "planeta": "marte"
+    },
+    {
+        "nombre": "pepe",
+        "planeta": "luna"
+    },
+    {
+        "nombre": "asd",
+        "planeta": "tierra"
+    }
+]

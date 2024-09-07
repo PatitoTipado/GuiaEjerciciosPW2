@@ -14,11 +14,8 @@
 require_once ("header.php");
 ?>
 
-    <iframe src="https://miel.unlam.edu.ar/data7/data2/contenido/2628/Programacio-n-web-2.pdf" style="
-    margin: auto
-    height: 86vh
-    width: 100%">
-
+    <iframe src="https://miel.unlam.edu.ar/data7/data2/contenido/2628/Programacio-n-web-2.pdf"
+            style="margin: auto; height: 86vh; width: 100%;">
     </iframe>
 
 </body>
